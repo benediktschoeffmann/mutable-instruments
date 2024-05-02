@@ -1,4 +1,7 @@
-Mutable Instruments' Eurorack Modules.
+# Fork of Mutable Instruments' Eurorack Modules
+
+This is my fork of MI`s repo. This was done so i have all files in one place.
+Thank you, Emilié!
 
 * [Blades](http://mutable-instruments.net/modules/blades): Dual multimode filter.
 * [Blinds](http://mutable-instruments.net/modules/blinds): Quad VC-polarizer.
@@ -36,7 +39,7 @@ Code (STM32F projects): MIT license.
 
 Hardware: cc-by-sa-3.0
 
-By: Emilie Gillet (emilie.o.gillet@gmail.com)
+By: Emilie Gillet (<emilie.o.gillet@gmail.com>)
 
 Guidelines for derivative works
 ===============================
