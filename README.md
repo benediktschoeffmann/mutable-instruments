@@ -30,8 +30,7 @@ Thank you, Emilié!
 * [Warps](http://mutable-instruments.net/modules/warps): Meta-modulator.
 * [Yarns](http://mutable-instruments.net/modules/yarns): MIDI interface.
 
-License
-=======
+## License
 
 Code (AVR projects): GPL3.0.
 
@@ -41,8 +40,7 @@ Hardware: cc-by-sa-3.0
 
 By: Emilie Gillet (<emilie.o.gillet@gmail.com>)
 
-Guidelines for derivative works
-===============================
+## Guidelines for derivative works
 
 **Mutable Instruments is a registered trademark.**
 
